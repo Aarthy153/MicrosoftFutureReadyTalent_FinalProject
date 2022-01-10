@@ -20,7 +20,7 @@ Hence, apart from medicinal solutions some Data Science solution needs to be int
 The goal is to classify whether the breast cancer is benign or malignant. To achieve this I have used machine learning classification methods to fit a function that can predict the discrete class of new input.
 
 ## PRIMARY AZURE TECHNOLOGIES USED
-AI + Machine Learning
-Azure Machine Learning
-Azure Web Apps
-Github Deployment
+AI + Machine Learning,
+Azure Machine Learning,
+Azure Web Apps,
+Github Deployment.
